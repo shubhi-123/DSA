@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubhi-123/DSA/tree/master/0001-two-sum) |
+| [0355-design-twitter](https://github.com/shubhi-123/DSA/tree/master/0355-design-twitter) |
 | [0819-most-common-word](https://github.com/shubhi-123/DSA/tree/master/0819-most-common-word) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shubhi-123/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 ## String
@@ -69,4 +70,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shubhi-123/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/shubhi-123/DSA/tree/master/0355-design-twitter) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/shubhi-123/DSA/tree/master/0355-design-twitter) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/shubhi-123/DSA/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
