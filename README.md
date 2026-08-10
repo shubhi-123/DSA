@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/shubhi-123/DSA/tree/master/0091-decode-ways) |
 | [0205-isomorphic-strings](https://github.com/shubhi-123/DSA/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/shubhi-123/DSA/tree/master/0290-word-pattern) |
 | [0819-most-common-word](https://github.com/shubhi-123/DSA/tree/master/0819-most-common-word) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/shubhi-123/DSA/tree/master/0091-decode-ways) |
 | [0877-stone-game](https://github.com/shubhi-123/DSA/tree/master/0877-stone-game) |
 ## Minimax
 |  |
