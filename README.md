@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shubhi-123/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/shubhi-123/DSA/tree/master/0290-word-pattern) |
 | [0355-design-twitter](https://github.com/shubhi-123/DSA/tree/master/0355-design-twitter) |
+| [0424-longest-repeating-character-replacement](https://github.com/shubhi-123/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0819-most-common-word](https://github.com/shubhi-123/DSA/tree/master/0819-most-common-word) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shubhi-123/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhi-123/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/shubhi-123/DSA/tree/master/0091-decode-ways) |
 | [0205-isomorphic-strings](https://github.com/shubhi-123/DSA/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/shubhi-123/DSA/tree/master/0290-word-pattern) |
+| [0424-longest-repeating-character-replacement](https://github.com/shubhi-123/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0819-most-common-word](https://github.com/shubhi-123/DSA/tree/master/0819-most-common-word) |
 | [1021-remove-outermost-parentheses](https://github.com/shubhi-123/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubhi-123/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -187,5 +189,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shubhi-123/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/shubhi-123/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhi-123/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
