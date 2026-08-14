@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/shubhi-123/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0819-most-common-word](https://github.com/shubhi-123/DSA/tree/master/0819-most-common-word) |
 | [0877-stone-game](https://github.com/shubhi-123/DSA/tree/master/0877-stone-game) |
+| [0930-binary-subarrays-with-sum](https://github.com/shubhi-123/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1037-valid-boomerang](https://github.com/shubhi-123/DSA/tree/master/1037-valid-boomerang) |
 | [1260-shift-2d-grid](https://github.com/shubhi-123/DSA/tree/master/1260-shift-2d-grid) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shubhi-123/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/shubhi-123/DSA/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubhi-123/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0819-most-common-word](https://github.com/shubhi-123/DSA/tree/master/0819-most-common-word) |
+| [0930-binary-subarrays-with-sum](https://github.com/shubhi-123/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shubhi-123/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhi-123/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shubhi-123/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -190,5 +192,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shubhi-123/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubhi-123/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/shubhi-123/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhi-123/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Prefix Sum
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/shubhi-123/DSA/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
