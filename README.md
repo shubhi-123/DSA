@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/shubhi-123/DSA/tree/master/1037-valid-boomerang) |
 | [1260-shift-2d-grid](https://github.com/shubhi-123/DSA/tree/master/1260-shift-2d-grid) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shubhi-123/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/shubhi-123/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/shubhi-123/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shubhi-123/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhi-123/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
