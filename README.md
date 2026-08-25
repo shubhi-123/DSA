@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubhi-123/DSA/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/shubhi-123/DSA/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/shubhi-123/DSA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/shubhi-123/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/shubhi-123/DSA/tree/master/0290-word-pattern) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shubhi-123/DSA/tree/master/0015-3sum) |
+| [0141-linked-list-cycle](https://github.com/shubhi-123/DSA/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/shubhi-123/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/shubhi-123/DSA/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shubhi-123/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/shubhi-123/DSA/tree/master/0355-design-twitter) |
 | [0876-middle-of-the-linked-list](https://github.com/shubhi-123/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -217,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shubhi-123/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/shubhi-123/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
