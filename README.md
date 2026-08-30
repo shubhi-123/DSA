@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/shubhi-123/DSA/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shubhi-123/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
@@ -95,12 +96,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shubhi-123/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shubhi-123/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/shubhi-123/DSA/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/shubhi-123/DSA/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shubhi-123/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shubhi-123/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shubhi-123/DSA/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/shubhi-123/DSA/tree/master/0148-sort-list) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shubhi-123/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shubhi-123/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Simulation
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shubhi-123/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/shubhi-123/DSA/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/shubhi-123/DSA/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/shubhi-123/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shubhi-123/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/shubhi-123/DSA/tree/master/0355-design-twitter) |
@@ -233,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/shubhi-123/DSA/tree/master/0203-remove-linked-list-elements) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/shubhi-123/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
