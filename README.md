@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/shubhi-123/DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0112-path-sum](https://github.com/shubhi-123/DSA/tree/master/0112-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/shubhi-123/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhi-123/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhi-123/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/shubhi-123/DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0112-path-sum](https://github.com/shubhi-123/DSA/tree/master/0112-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/shubhi-123/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhi-123/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhi-123/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/shubhi-123/DSA/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhi-123/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhi-123/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhi-123/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/shubhi-123/DSA/tree/master/0112-path-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhi-123/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3310-remove-methods-from-project](https://github.com/shubhi-123/DSA/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
