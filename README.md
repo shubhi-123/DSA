@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shubhi-123/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/shubhi-123/DSA/tree/master/0015-3sum) |
+| [0040-combination-sum-ii](https://github.com/shubhi-123/DSA/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/shubhi-123/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0137-single-number-ii](https://github.com/shubhi-123/DSA/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/shubhi-123/DSA/tree/master/0204-count-primes) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/shubhi-123/DSA/tree/master/0040-combination-sum-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/shubhi-123/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shubhi-123/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
