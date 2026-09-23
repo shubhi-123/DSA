@@ -328,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/shubhi-123/DSA/tree/master/0040-combination-sum-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/shubhi-123/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shubhi-123/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/shubhi-123/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
