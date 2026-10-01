@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shubhi-123/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/shubhi-123/DSA/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/shubhi-123/DSA/tree/master/0038-count-and-say) |
 | [0091-decode-ways](https://github.com/shubhi-123/DSA/tree/master/0091-decode-ways) |
 | [0205-isomorphic-strings](https://github.com/shubhi-123/DSA/tree/master/0205-isomorphic-strings) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shubhi-123/DSA/tree/master/0020-valid-parentheses) |
 | [0173-binary-search-tree-iterator](https://github.com/shubhi-123/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0897-increasing-order-search-tree](https://github.com/shubhi-123/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shubhi-123/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shubhi-123/DSA/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shubhi-123/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Floyd's Cycle Finding Algorithm
 |  |
