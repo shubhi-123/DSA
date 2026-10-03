@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shubhi-123/DSA/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/shubhi-123/DSA/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/shubhi-123/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shubhi-123/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/shubhi-123/DSA/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/shubhi-123/DSA/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/shubhi-123/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shubhi-123/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/shubhi-123/DSA/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shubhi-123/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/shubhi-123/DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shubhi-123/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/shubhi-123/DSA/tree/master/0112-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/shubhi-123/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhi-123/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/shubhi-123/DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shubhi-123/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/shubhi-123/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhi-123/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhi-123/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/shubhi-123/DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shubhi-123/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/shubhi-123/DSA/tree/master/0112-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/shubhi-123/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhi-123/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
