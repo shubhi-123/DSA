@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shubhi-123/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/shubhi-123/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0819-most-common-word](https://github.com/shubhi-123/DSA/tree/master/0819-most-common-word) |
+| [0856-score-of-parentheses](https://github.com/shubhi-123/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shubhi-123/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shubhi-123/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubhi-123/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shubhi-123/DSA/tree/master/0020-valid-parentheses) |
 | [0173-binary-search-tree-iterator](https://github.com/shubhi-123/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/shubhi-123/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/shubhi-123/DSA/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/shubhi-123/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shubhi-123/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shubhi-123/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shubhi-123/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shubhi-123/DSA/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/shubhi-123/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/shubhi-123/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shubhi-123/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Floyd's Cycle Finding Algorithm
 |  |
