@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubhi-123/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shubhi-123/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shubhi-123/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/shubhi-123/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/shubhi-123/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/shubhi-123/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Number Theory
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shubhi-123/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shubhi-123/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubhi-123/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/shubhi-123/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shubhi-123/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
