@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shubhi-123/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/shubhi-123/DSA/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/shubhi-123/DSA/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shubhi-123/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/shubhi-123/DSA/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/shubhi-123/DSA/tree/master/0191-number-of-1-bits) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shubhi-123/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Depth-First Search
 |  |
