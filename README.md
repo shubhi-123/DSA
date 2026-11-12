@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/shubhi-123/DSA/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/shubhi-123/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shubhi-123/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0414-third-maximum-number](https://github.com/shubhi-123/DSA/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shubhi-123/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0819-most-common-word](https://github.com/shubhi-123/DSA/tree/master/0819-most-common-word) |
 | [0835-image-overlap](https://github.com/shubhi-123/DSA/tree/master/0835-image-overlap) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/shubhi-123/DSA/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/shubhi-123/DSA/tree/master/0148-sort-list) |
+| [0414-third-maximum-number](https://github.com/shubhi-123/DSA/tree/master/0414-third-maximum-number) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shubhi-123/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shubhi-123/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shubhi-123/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
