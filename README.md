@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shubhi-123/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shubhi-123/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0414-third-maximum-number](https://github.com/shubhi-123/DSA/tree/master/0414-third-maximum-number) |
+| [0419-battleships-in-a-board](https://github.com/shubhi-123/DSA/tree/master/0419-battleships-in-a-board) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shubhi-123/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0819-most-common-word](https://github.com/shubhi-123/DSA/tree/master/0819-most-common-word) |
 | [0835-image-overlap](https://github.com/shubhi-123/DSA/tree/master/0835-image-overlap) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shubhi-123/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shubhi-123/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0419-battleships-in-a-board](https://github.com/shubhi-123/DSA/tree/master/0419-battleships-in-a-board) |
 | [0835-image-overlap](https://github.com/shubhi-123/DSA/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/shubhi-123/DSA/tree/master/1260-shift-2d-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/shubhi-123/DSA/tree/master/1901-find-a-peak-element-ii) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shubhi-123/DSA/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhi-123/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhi-123/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0419-battleships-in-a-board](https://github.com/shubhi-123/DSA/tree/master/0419-battleships-in-a-board) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhi-123/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0897-increasing-order-search-tree](https://github.com/shubhi-123/DSA/tree/master/0897-increasing-order-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shubhi-123/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
