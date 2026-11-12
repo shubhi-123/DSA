@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/shubhi-123/DSA/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/shubhi-123/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shubhi-123/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0135-candy](https://github.com/shubhi-123/DSA/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/shubhi-123/DSA/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/shubhi-123/DSA/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/shubhi-123/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/shubhi-123/DSA/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/shubhi-123/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shubhi-123/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shubhi-123/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
