@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/shubhi-123/DSA/tree/master/1037-valid-boomerang) |
 | [1260-shift-2d-grid](https://github.com/shubhi-123/DSA/tree/master/1260-shift-2d-grid) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shubhi-123/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shubhi-123/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shubhi-123/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/shubhi-123/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shubhi-123/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/shubhi-123/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/shubhi-123/DSA/tree/master/0877-stone-game) |
 | [1037-valid-boomerang](https://github.com/shubhi-123/DSA/tree/master/1037-valid-boomerang) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shubhi-123/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shubhi-123/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/shubhi-123/DSA/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubhi-123/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/shubhi-123/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0678-valid-parenthesis-string](https://github.com/shubhi-123/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/shubhi-123/DSA/tree/master/0877-stone-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shubhi-123/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shubhi-123/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Minimax
 |  |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/shubhi-123/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shubhi-123/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shubhi-123/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/shubhi-123/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Bracket Sequences
