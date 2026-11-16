@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/shubhi-123/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shubhi-123/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shubhi-123/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/shubhi-123/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/shubhi-123/DSA/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubhi-123/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shubhi-123/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/shubhi-123/DSA/tree/master/1260-shift-2d-grid) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/shubhi-123/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shubhi-123/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/shubhi-123/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
